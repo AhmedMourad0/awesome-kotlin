@@ -422,6 +422,7 @@ Here awesome badge for your project:
 * [MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework for Kotlin. Used as a wrapper for slf4j with Kotlin extensions.
 * [ingokegel/jclasslib](https://github.com/ingokegel/jclasslib) - jclasslib bytecode viewer is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.
 * [puniverse/quasar](https://github.com/puniverse/quasar/tree/master/quasar-kotlin) - Fibers, Channels and Actors for the JVM.
+* [AhmedMourad0/no-copy](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on marked data classes.
 
 ### <a name="libraries-frameworks-raspberry-pi"></a>Raspberry Pi <sup>[Back ⇈](#libraries-frameworks-raspberry-pi-subcategory)</sup>
 * [mhashim6/Pi4K](https://github.com/mhashim6/Pi4K) - Pi4J Kotlin bindings.
